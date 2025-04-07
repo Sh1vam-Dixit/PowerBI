@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![Author](https://img.shields.io/badge/Author-Madhav-blueviolet?style=for-the-badge)
+![Author](https://img.shields.io/badge/Author-Shivam-blueviolet?style=for-the-badge)
 
 > 📁 Power BI report analyzing e-commerce performance by region, customer, category, and payment method.
 
